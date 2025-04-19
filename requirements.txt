@@ -2,7 +2,7 @@ gdown==5.2.0
 imutils==0.5.4
 matplotlib==3.10.1
 numpy==2.2.4
-Pillow==11.2.1
+Pillow==10.3.0
 Requests==2.32.3
 streamlit==1.37.1
 supervision==0.25.1
